@@ -1,5 +1,6 @@
 # Tetris-Effect-Test
-https://user-images.githubusercontent.com/2722172/125953156-6fa8d425-d8ee-48ed-b2be-2c6c35b3ed77.mp4
+
+### [Jogar no browser](https://arthursb.github.io/Tetris-Effect-Test/)
 
 Demonstração inspirada em Tetris Effect criada para testar efeitos visuais usando shaders na Unity.
 
@@ -9,3 +10,11 @@ Comandos:
 - Setas = mover peça
 - Q / W = rotacionar a peça
 - Espaço = derrubar peça
+
+Utilizei os seguintes materias de terceiros:
+1. Todas as fontes
+2. Todas as músicas e efeitos sonoros
+3. Modelo 3D do carrinho
+4. Textura Vaporwave Grid
+
+https://user-images.githubusercontent.com/2722172/125953156-6fa8d425-d8ee-48ed-b2be-2c6c35b3ed77.mp4
